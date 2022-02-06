@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/ilmarlopez" target="blank"><img src="https://img.shields.io/twitter/follow/ilmarlopez?logo=twitter&style=for-the-badge" alt="ilmarlopez" /></a> </p>
 
+- 🔭 I’m currently working for <a href="https://www.storicard.com/" target="blank">Stori</a>
+
 - 🌱 I’m currently learning **AWS**
 
 - 💬 Ask me about **Vue, Go, Python, AWS, MySQL, SASS, Swagger, REST, Jenkins, Docker, Electron**
@@ -38,3 +40,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilmarlopez&show_icons=true&locale=en" alt="ilmarlopez" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ilmarlopez&" alt="ilmarlopez" /></p>
+
+### My Wakatime Stats ⌚
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="@rahulbanerjee26&compact=True">https://github-readme-stats.vercel.app/api/wakatime?username=@rahulbanerjee26&compact=True"/>
+</a>
